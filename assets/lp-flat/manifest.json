@@ -1,0 +1,68 @@
+[
+  {
+    "selector": "header.hero",
+    "filename": "01-hero.png",
+    "cssWidth": 390,
+    "cssHeight": 864.0625
+  },
+  {
+    "selector": "section.empathy",
+    "filename": "02-empathy.png",
+    "cssWidth": 390,
+    "cssHeight": 852.375
+  },
+  {
+    "selector": "section.proof",
+    "filename": "03-proof.png",
+    "cssWidth": 390,
+    "cssHeight": 1693.90625
+  },
+  {
+    "selector": "section.promise",
+    "filename": "04-promise.png",
+    "cssWidth": 390,
+    "cssHeight": 543.734375
+  },
+  {
+    "selector": "section.topics",
+    "filename": "05-topics.png",
+    "cssWidth": 390,
+    "cssHeight": 516.515625
+  },
+  {
+    "selector": "section.experience",
+    "filename": "06-experience.png",
+    "cssWidth": 390,
+    "cssHeight": 1040.015625
+  },
+  {
+    "selector": "section.after-call",
+    "filename": "07-after-call.png",
+    "cssWidth": 390,
+    "cssHeight": 595.96875
+  },
+  {
+    "selector": "section.steps",
+    "filename": "08-steps.png",
+    "cssWidth": 390,
+    "cssHeight": 1081.390625
+  },
+  {
+    "selector": "section.boundaries",
+    "filename": "09-boundaries.png",
+    "cssWidth": 390,
+    "cssHeight": 548.5
+  },
+  {
+    "selector": "section.faq",
+    "filename": "10-faq.png",
+    "cssWidth": 390,
+    "cssHeight": 1043.5
+  },
+  {
+    "selector": "section.final",
+    "filename": "11-final.png",
+    "cssWidth": 390,
+    "cssHeight": 611.046875
+  }
+]
